@@ -1,4 +1,4 @@
-# Code for **EnsV**
+# Code for **PseudoCal**
 
 ## [**Pseudo-Calibration: Improving Predictive Uncertainty Estimation in Domain Adaptation**](https://openreview.net/forum?id=YV3MJo1uRa)
 
