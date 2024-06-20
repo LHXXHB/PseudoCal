@@ -1,0 +1,17 @@
+Task: AC, Iter:999/10000; Accuracy = 46.93%; Mean Ent = 1.7932
+Task: AC, Iter:1998/10000; Accuracy = 46.81%; Mean Ent = 1.5463
+Task: AC, Iter:2997/10000; Accuracy = 46.75%; Mean Ent = 1.5059
+Task: AC, Iter:3996/10000; Accuracy = 45.79%; Mean Ent = 1.4175
+Task: AC, Iter:4995/10000; Accuracy = 46.39%; Mean Ent = 1.3847
+Task: AC, Iter:5994/10000; Accuracy = 44.96%; Mean Ent = 1.3421
+Task: AC, Iter:6993/10000; Accuracy = 44.24%; Mean Ent = 1.3060
+Task: AC, Iter:7992/10000; Accuracy = 44.78%; Mean Ent = 1.2861
+Task: AC, Iter:8991/10000; Accuracy = 44.66%; Mean Ent = 1.2702
+Task: AC, Iter:9990/10000; Accuracy = 44.78%; Mean Ent = 1.2555
+
+==========================================
+
+Val Acc = 44.78
+Max Acc = 46.93
+Fin Acc = 44.78
+
